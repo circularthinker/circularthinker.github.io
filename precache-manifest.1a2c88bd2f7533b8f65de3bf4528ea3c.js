@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9415de2e546e26eeee8630ea62dce857",
+    "revision": "c07a12c38b3629dfe785af0fea4ae79d",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "be79347be9ba52a20572",
+    "revision": "298680e5a44b3d2bf586",
     "url": "/static/css/main.509cd038.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.87789644.chunk.js"
   },
   {
-    "revision": "be79347be9ba52a20572",
-    "url": "/static/js/main.3dab71a0.chunk.js"
+    "revision": "298680e5a44b3d2bf586",
+    "url": "/static/js/main.a9259ec0.chunk.js"
   },
   {
     "revision": "7fd7943828febc3cffc5",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "18c0393c7613383bc3107856e8e14454",
+    "url": "/static/media/minhajlogo.18c0393c.png"
   },
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
@@ -100,11 +100,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "3590135716d0b0d4d2a5f3cb90f79bf5",
+    "url": "/static/media/uelogo.35901357.png"
   }
 ]);
