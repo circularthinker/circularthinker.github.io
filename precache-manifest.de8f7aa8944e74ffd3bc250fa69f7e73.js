@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eba912c6f45837e343bc4b151efa4e7b",
+    "revision": "25364b9dd07180247def2f62969855eb",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "3d3a25b9a9b1aaeb061e",
+    "revision": "dee3ff054b813fc54004",
     "url": "/static/css/main.509cd038.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.87789644.chunk.js"
   },
   {
-    "revision": "3d3a25b9a9b1aaeb061e",
-    "url": "/static/js/main.a98299ac.chunk.js"
+    "revision": "dee3ff054b813fc54004",
+    "url": "/static/js/main.214e761e.chunk.js"
   },
   {
     "revision": "7fd7943828febc3cffc5",
@@ -80,12 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
+    "revision": "c48fb4b1977db7e19f4280cc3a47d920",
+    "url": "/static/media/oracons.c48fb4b1.png"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
+    "revision": "ee62cb58630f29a6e6201b49d4c03728",
+    "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
